@@ -1,0 +1,51 @@
+/**
+ * @name JustOneAnimeTheme
+ * @version 8.0
+ * @description A simple but highly customizable theme, now sugar free!
+ * @author Spectra
+ * @invite PZdnCVD
+ * @source https://github.com/xcruxiex/themes
+ * @website https://betterdiscord.app/theme/Neutron
+ * @BDEditor Neutron
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Airel:wght@100;300;400;500;700&display=swap');
+@import url('https://xcruxiex.github.io/themes/themes-cores/neutron8.css');
+@import url('https://discordstyles.github.io/HorizontalServerList/dist/HorizontalServerList.css');
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+
+:root {
+  --backgroundImage: url('https://raw.githubusercontent.com/puckzxz/NotAnotherAnimeTheme/master/image/PTT4OKi.jpg');
+  --backgroundColor: #0d0d0d;
+  --backgroundSize: cover;
+  --backgroundPosition: center;
+  --backgroundRepeat: no-repeat;
+  --backgroundBlur: 0px;
+  --backgroundOpacity: 0.3;
+  --homeImage: url('https://cdn.discordapp.com/attachments/1119089964957831168/1119417344708587620/MagnetiteV3Logo.png');
+  --homeImageSize: cover;
+  --themeColor1: #215A7E;
+  --themeColor2: #215A7E;
+  --customFont: Airel;
+  --backgroundCode: rgb(0,0,0,1);
+  --backgroundName: rgb(33,90,126,1);
+  --HSL-server-icon-size: 54px;
+  --HSL-server-spacing: 7px;
+  --rs-small-spacing: 2px;
+  --rs-medium-spacing: 6px;
+  --rs-large-spacing: 2px;
+  --rs-small-width: 2px;
+  --rs-medium-width: 2px;
+  --rs-large-width: 2px;
+  --rs-avatar-shape: 50%;
+  --rs-online-color: #215A7E;
+  --rs-idle-color: #215A7E;
+  --rs-dnd-color: #215A7E;
+  --rs-offline-color: #FFFFFF;
+  --rs-streaming-color: #215A7E;
+  --rs-phone-visible: block;
+}
+
+/* Any custom CSS below here */
+
+
